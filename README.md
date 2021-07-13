@@ -1,5 +1,5 @@
 ### Hey, I'm codercoool.
-I'm a web developer. I love to design with CSS.
+I'm an web developer. I love to design with CSS.
 
 ---
 
@@ -8,6 +8,8 @@ I'm a web developer. I love to design with CSS.
 - Python,
 - Html, CSS,
 - Java, - Still Learning 
+- C++
+- C# - Still Learning 
 ---
 
 
@@ -15,6 +17,7 @@ I'm a web developer. I love to design with CSS.
 - I like to code. (If you couldn't tell)
 - I love to read.
 - I like to watch videos.
+- I like Minecraft.
 ---
 ### Stats
 ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical)
@@ -30,4 +33,4 @@ I'm a web developer. I love to design with CSS.
 
 ---
 ### Langauges Tool Box
-(Still working on it.)
+
