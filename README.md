@@ -10,6 +10,7 @@ I'm an web developer. I love to design with CSS.
 - Java, - Still Learning 
 - C++
 - C# - Still Learning 
+- Php - Not fully
 ---
 
 
@@ -33,4 +34,8 @@ I'm an web developer. I love to design with CSS.
 
 ---
 ### Langauges Tool Box
+
+---
+### Platforms 
+
 
