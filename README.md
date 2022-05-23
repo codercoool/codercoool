@@ -22,7 +22,7 @@ I'm an web developer. I love to design with CSS.
 ### Stats
 ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?codercoool=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?codercoool=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Most Used Langauge
 
