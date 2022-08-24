@@ -1,5 +1,5 @@
-### Hey, I'm codercoool.
-I'm a web developer. I love to design with CSS.
+### Hey, I'm codercoool. 
+ I'm a developer!
 
 ---
 
