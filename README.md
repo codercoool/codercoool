@@ -24,7 +24,7 @@ let me = "working 24/7"
 
 ---
 ### Stats
-<a href="https://github.com"> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
+<a href="https://github.com/codercoool"> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
   </a>
 
 
