@@ -23,15 +23,12 @@ let me = "working 24/7"
 ```
 
 ---
-### Stats
+### Stats (geeky tracker)
 <a href="https://github.com/codercoool"> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
   </a>
 
 
-
-### Most Used Langauge
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercoool&show_icons=true&theme=radical)
+<a href="https://github.com/codercoool"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercoool&show_icons=true&theme=radical) </a>
 
 ---
 
