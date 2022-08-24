@@ -37,6 +37,9 @@ let me = "working 24/7"
 
 ---
 ### Networking
+
+[Minifish736](https://github.com/minifish736) - irl friend
+
 Hey! I'm a software developer looking for new people to interact with. Please, I need friends. <3
 
 ---
