@@ -30,6 +30,8 @@ let me = "working 24/7"
 
 <a href="https://github.com/codercoool"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercoool&show_icons=true&theme=radical) </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=codercoool&theme=onedark)](https://github.com/codercoool)
+
 ---
 
 ### Socials 
