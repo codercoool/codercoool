@@ -13,14 +13,18 @@ I'm a web developer. I love to design with CSS.
 ---
 
 
-### Hobbies
-- I like to code. (If you couldn't tell)
-- I love to read.
-- I like to watch videos.
-- I like Minecraft.
+### About Me
+```js
+
+let code = true
+let games = true
+let books = false
+let me = "working 24/7"
+```
+
 ---
 ### Stats
-<a> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
+<a href="https://github.com"> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
   </a>
 
 
@@ -35,9 +39,10 @@ I'm a web developer. I love to design with CSS.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codercoool)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/epicccccccc1)  
 
 ---
-### Langauges Tool Box
+### Networking
+Hey! I'm a software developer looking for new people to interact with. Please, I need friends. <3
 
 ---
 ### Platforms 
-
+Still being worked on <3
 
