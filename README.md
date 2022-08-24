@@ -1,5 +1,5 @@
 ### Hey, I'm codercoool. 
- I'm a developer!
+ I'm a developer! Yes, im also on reddit 🤓
 
 ---
 
@@ -23,7 +23,7 @@ let me = "working 24/7"
 ```
 
 ---
-### Stats (geeky tracker)
+### Stats (geeky tracker) 
 <a href="https://github.com/codercoool"> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
   </a>
 
