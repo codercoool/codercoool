@@ -20,7 +20,8 @@ I'm a web developer. I love to design with CSS.
 - I like Minecraft.
 ---
 ### Stats
-![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical)
+<a> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
+  </a>
 
 
 
