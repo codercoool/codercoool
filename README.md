@@ -17,14 +17,13 @@ let me = "working 24/7"
 
 ---
 ### Stats (geeky tracker) 
-<a href="https://github.com/codercoool"> ![codercoool's Stats](https://github-readme-stats.vercel.app/api?username=codercoool&count_private=true&show_icons=true&theme=radical) 
-  </a>
+<a href="https://github.com/codercoool">![Stats](https://github-readme-stats.vercel.app/api?username=codercoool&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> 
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=codercoool&theme=tokyonight&hide_border=true)<br/> 
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=codercoool&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=codercoool&theme=discord&no-frame=false&no-bg=true&margin-w=4) </a> 
 
-<a href="https://github.com/codercoool"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercoool&show_icons=true&theme=radical) </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codercoool&theme=dracula)](https://github.com/codercoool)
-
+ 
 
 
 ---
@@ -40,4 +39,7 @@ My discord is epic#1917
 ---
 ### Toolbox 
 Still being worked on <3
+
+---
+[![Views](https://visitcount.itsvg.in/api?id=codercoool&icon=2&color=8)](https://visitcount.itsvg.in)
 
