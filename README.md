@@ -1,16 +1,9 @@
-### Hey, I'm codercoool. 
+## Hey, I'm codercoool. 
+ 
  I'm a developer! Yes, im also on reddit 🤓
 
 ---
 
-### Skills
-- JavaScript,
-- Python,
-- Html, CSS,
-- Java, - Still Learning 
-- C++
-- C# - Still Learning 
----
 
 
 ### About Me
@@ -32,19 +25,19 @@ let me = "working 24/7"
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codercoool&theme=dracula)](https://github.com/codercoool)
 
----
 
-### Socials 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codercoool)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/epicccccccc1)  
 
 ---
 ### Networking
 
 [Minifish736](https://github.com/minifish736) - irl friend
 
-Hey! I'm a software developer looking for new people to interact with. Please, I need friends. <3
+To network with me, use [this](https://www.discord.com/) to dm me. 
+
+##### Discord
+My discord is epic#1917
 
 ---
-### Platforms 
+### Toolbox 
 Still being worked on <3
 
