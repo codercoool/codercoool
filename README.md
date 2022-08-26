@@ -41,5 +41,5 @@ My discord is epic#1917
 Still being worked on <3
 
 ---
-[![Views](https://visitcount.itsvg.in/api?id=codercoool&icon=2&color=8)](https://visitcount.itsvg.in)
+
 
