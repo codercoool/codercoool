@@ -30,6 +30,7 @@ let me = "working 24/7"
 ### Networking
 
 [Minifish736](https://github.com/minifish736) - irl friend
+
 [Mezotv](https://github.com/mezotv) - online friend
 
 To network with me, use [this](https://www.discord.com/) to dm me. 
