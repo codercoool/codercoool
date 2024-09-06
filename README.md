@@ -1,4 +1,4 @@
-## ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Hey, I'm codercoool. 
+##	Hey, I'm codercoool. 
  
  I'm a developer! Yes, im also on reddit 🤓
 
@@ -33,10 +33,7 @@ let me = "working 24/7"
 
 [Mezotv](https://github.com/mezotv) - online friend
 
-To network with me, use [this](https://www.discord.com/) to dm me. 
 
-##### Discord
-My discord is epic#1917
 
 ---
 ### Toolbox 
